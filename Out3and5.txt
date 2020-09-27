@@ -1,0 +1,72 @@
+#после 3 пункта
+.:
+total 21
+lrwxrwxrwx   1 s311719  studs         10 сент. 25 21:59 Copy_77 -> whirlpede9
+-rw-rw-r--   2 s311719  studs         37 сент. 25 21:44 deino3
+-rw-r--r--   1 s311719  studs         61 сент. 25 22:01 deino3_48
+drwxrw-r--   3 s311719  studs          9 сент. 25 22:01 flygon1
+-r--r--r--   1 s311719  studs        102 сент. 25 21:48 foongus1
+drwx-wxrwx   2 s311719  studs          9 сент. 25 22:02 horsea7
+drwxr-xr-x   2 s311719  studs          2 сент. 25 21:44 horsea7Version
+-r--r--r--   1 s311719  studs         37 сент. 25 21:51 slugma1
+d-wx-wxrwx   4 s311719  studs          7 сент. 25 21:52 whirlpede9
+
+./flygon1:
+total 15
+-rw-r--r--   1 s311719  studs         31 сент. 25 21:47 goldee
+-rw-rw----   1 s311719  studs         23 сент. 25 21:47 goldeen
+-r-----r--   1 s311719  studs         37 сент. 25 21:48 shellder
+dr-xrwx-wx   2 s311719  studs          2 сент. 25 21:45 vaporeon
+-r-----r--   1 s311719  studs        249 сент. 25 21:47 victreebel
+-r-----r--   1 s311719  studs         38 сент. 25 21:47 whismur
+-rw-r--r--   1 s311719  studs         37 сент. 25 22:01 whismurslugma
+
+./flygon1/vaporeon:
+total 0
+
+./horsea7:
+total 13
+-rw-r-----   1 s311719  studs         22 сент. 25 21:50 altaria
+-rw-------   1 s311719  studs         18 сент. 25 21:49 kingler
+lrwxrwxrwx   1 s311719  studs         26 сент. 25 22:01 kinglerslugma -> /home/s311719/lab0/slugma1
+-------r--   1 s311719  studs         25 сент. 25 21:50 mismagius
+-------rw-   1 s311719  studs         53 сент. 25 21:51 omanyte
+-rw-rw-r--   2 s311719  studs         37 сент. 25 21:44 omanytedeino
+-r--r-----   1 s311719  studs         62 сент. 25 21:50 parasect
+
+./horsea7Version:
+total 0
+
+./whirlpede9:
+./whirlpede9: Permission denied
+total 0
+
+#после 5 пункта
+.:
+total 15
+-rw-r--r--   1 s311719  studs         61 сент. 25 22:01 deino3_48
+drwxrw-r--   3 s311719  studs          9 сент. 25 22:01 flygon1
+-r--r--r--   1 s311719  studs        102 сент. 25 21:48 foongus1
+drwxr-xr-x   2 s311719  studs          2 сент. 25 21:44 horsea7Version
+-r--r--r--   1 s311719  studs         37 сент. 25 21:51 slugma1
+d-wx-wxrwx   3 s311719  studs          5 сент. 25 22:13 whirlpede9
+
+./flygon1:
+total 15
+-rw-r--r--   1 s311719  studs         31 сент. 25 21:47 goldee
+-rw-rw----   1 s311719  studs         23 сент. 25 21:47 goldeen
+-r-----r--   1 s311719  studs         37 сент. 25 21:48 shellder
+dr-xrwx-wx   2 s311719  studs          2 сент. 25 21:45 vaporeon
+-r-----r--   1 s311719  studs        249 сент. 25 21:47 victreebel
+-r-----r--   1 s311719  studs         38 сент. 25 21:47 whismur
+-rw-r--r--   1 s311719  studs         37 сент. 25 22:01 whismurslugma
+
+./flygon1/vaporeon:
+total 0
+
+./horsea7Version:
+total 0
+
+./whirlpede9:
+./whirlpede9: Permission denied
+total 0
